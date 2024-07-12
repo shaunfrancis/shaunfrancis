@@ -9,7 +9,7 @@
     * :black_joker: [Territory Trumps](https://tennessine.co.uk/territory-trumps): Interactive Top Trumps-style game based on countries and territories of the world.
     * :fireworks: [Unicode Showcase](https://tennessine.co.uk/unicode): Instagram bot that generates art for each Unicode character.
 
-* :ballot_box_with_check: [Cross In The Box](https://crossinthebox.com/uk/general-elections): Interactive exploration and analysis of election results around the world.
+* 🗳️ [Cross In The Box](https://crossinthebox.com/uk/general-elections): Interactive exploration and analysis of election results around the world.
 * :house: [Mena View](http://menaview.co.uk): A holiday home in Cornwall.
 * :books: [Four Sirens Press](https://foursirenspress.co.uk): A Devon-based publishing group.
 * :earth_asia: [Travel Sans Serif](https://travelsansserif.com): A travel blog.
